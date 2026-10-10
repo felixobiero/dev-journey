@@ -1,0 +1,9 @@
+# Private planning files — stay local, never pushed
+roadmap.md
+notes.md
+learning/00-how-we-work.md
+learning/journal.md
+
+# OS junk
+Thumbs.db
+.DS_Store
